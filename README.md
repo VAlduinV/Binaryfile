@@ -1,12 +1,13 @@
 # Binaryfile
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Arial+Black&duration=4999&pause=1000&color=39F7E2&center=true&width=435&lines=Binaryfile)](https://git.io/typing-svg)
+<div>
 8""""8                                                   
 8    8   e  eeeee eeeee eeeee  e    e eeee e  e     eeee 
 8eeee8ee 8  8   8 8   8 8   8  8    8 8    8  8     8    
 88     8 8e 8e  8 8eee8 8eee8e 8eeee8 8eee 8e 8e    8eee 
 88     8 88 88  8 88  8 88   8   88   88   88 88    88   
 88eeeee8 88 88  8 88  8 88   8   88   88   88 88eee 88ee 
-                                                        
+</div>                                                        
 <div>
   <p>Даний код є прикладом взаємодії з бінарним файлом. Клас foo містить дві методи - write і read, які дозволяють записувати і читати дані з файлу. В основній функції main створюється об'єкт класу foo, його поля заповнюються значеннями, після чого він записується у файл "file.bin" за допомогою методу write. Далі створюється ще один об'єкт result, до якого дані з файлу "file.bin" зчитуються методом read, після чого відображаються на екрані за допомогою методу show.</p>
 
